@@ -1,4 +1,4 @@
-package algorithms;
+
 
 import java.math.BigInteger;
 /*
@@ -12,7 +12,7 @@ import java.math.BigInteger;
  */
 import java.util.Scanner;
 
-public class ExtraLargeFacotrials {
+ class ExtraLargeFactorials {
 
 	private static Scanner sc;
 
